@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"D:\GitHub\VRTech\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"D:\GitHub\VRTech\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"D:\GitHub\VRTech\VRTech - leo\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\PCLaunch.rc.res"
+/OUT:"D:\GitHub\VRTech\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin-Win64-Shipping.lib"

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRExpansionPlugin-3008.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.cpp.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_5.cpp.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_5.cpp.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.3_of_5.cpp.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.4_of_5.cpp.obj"
+"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_5.cpp.obj"
+"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\PCLaunch.rc.res"
+"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\UnrealEngine\VRTech\mordentral-vrexppluginexample-63a4de355569 4.19\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VRExpansionPlugin-3008.lib"
