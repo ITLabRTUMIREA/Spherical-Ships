@@ -24,10 +24,10 @@
 /w44668
 /I D:\ProgrammFiles\UE_4.19\Engine\Source
 /I D:\ProgrammFiles\UE_4.19\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Async
@@ -376,10 +376,10 @@
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Networking\Public\Interfaces\IPv4
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Networking\Public\Interfaces\Steam
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Networking
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\ThirdParty\Steamworks\Steamv139\sdk\public
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\ThirdParty\Steamworks
 /I D:\ProgrammFiles\UE_4.19\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Classes
@@ -389,9 +389,9 @@
 /FI"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
-/FI"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
+/FI"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4

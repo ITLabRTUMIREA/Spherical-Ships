@@ -23,11 +23,11 @@
 /wd4838
 /w44668
 /I D:\ProgrammFiles\UE_4.19\Engine\Source
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Async
@@ -379,9 +379,9 @@
 /FI"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
-/FI"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Fo"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
+/FI"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Fo"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4

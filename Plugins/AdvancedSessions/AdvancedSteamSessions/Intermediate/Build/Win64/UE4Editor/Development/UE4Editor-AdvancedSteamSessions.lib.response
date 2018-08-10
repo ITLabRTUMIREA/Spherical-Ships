@@ -7,8 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
-"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 "D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\PCLaunch.rc.res"
 "D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
-/OUT:"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.lib"
+/OUT:"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.lib"

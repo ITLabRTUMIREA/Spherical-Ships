@@ -25,10 +25,10 @@
 /w44668
 /I D:\ProgrammFiles\UE_4.19\Engine\Source
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Engine\Private\PhysicsEngine
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin"
-/I "D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin"
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin
+/I D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\ProgrammFiles\UE_4.19\Engine\Source\Runtime\Core\Public\Async
@@ -379,9 +379,9 @@
 /FI"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\ProgrammFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
-/FI"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
-/Fo"D:\Projects\UnrealEngine\Last\VRTech - leo\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
+/FI"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
+/Fo"D:\Projects\UnrealEngine\VRTech\Rep3\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
 /TP
 /GR-
 /W4
