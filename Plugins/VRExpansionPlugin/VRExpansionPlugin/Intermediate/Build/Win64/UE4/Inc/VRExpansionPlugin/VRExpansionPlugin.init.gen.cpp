@@ -33,8 +33,8 @@ void EmptyLinkFunctionForGeneratedCodeVRExpansionPlugin_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/VRExpansionPlugin",
 				PKG_CompiledIn | 0x00000000,
-				0x98F6B8D7,
-				0xD5ADE990,
+				0xAA93BC28,
+				0x72297184,
 				SingletonFuncArray, ARRAY_COUNT(SingletonFuncArray),
 				METADATA_PARAMS(nullptr, 0)
 			};
