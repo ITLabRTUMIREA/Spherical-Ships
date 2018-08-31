@@ -772,4 +772,4 @@ Engine/Content/Internationalization/icudt53l/zone/pool.res	2018-04-21T23:33:46.9
 Engine/Content/Internationalization/icudt53l/zone/res_index.res	2018-04-21T23:33:46.999Z
 Engine/Content/Internationalization/icudt53l/zone/root.res	2018-04-21T23:33:47.000Z
 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini	2018-04-21T23:49:10.381Z
-VRExpPluginExample.exe	2018-08-10T23:21:13.083Z
+VRExpPluginExample.exe	2018-08-31T22:27:51.850Z
